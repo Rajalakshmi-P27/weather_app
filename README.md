@@ -1,16 +1,12 @@
 # weather_app
 
-A new Flutter project.
 
-## Getting Started
+## About
+Developed a Cross-Platform weather app with Flutter using
+OpenWeather API to display current temperature, hourly forecast, wind
+speed, and humidity. Implemented MVVM architecture with Provider for
+state management.
 
-This project is a starting point for a Flutter application.
+### Recording
+https://github.com/user-attachments/assets/2cb12704-3996-4d23-ac30-4b3699d415ea
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
